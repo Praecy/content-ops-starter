@@ -13,9 +13,14 @@ sections:
           fontWeight: 400
     subtitle: I am Prashanth Yadamala
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      As a dedicated and detail-oriented Data Analyst, I am passionate about
+      using the power of data to help solve problems faced by people and
+      businesses. 
+
+
+      Proficient in Power BI, SQL, Excel, Python and R, I thrive in converting
+      complex raw data to simple yet informative visuals and actionable
+      recommendations to assist in the decision-making process. 
     actions:
       - label: Get started
         altText: ''
