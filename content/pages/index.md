@@ -22,15 +22,6 @@ sections:
       complex raw data to simple yet informative visuals and actionable
       recommendations to assist in the decision-making process. 
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: Check out some of my projects
         altText: ''
         url: /
