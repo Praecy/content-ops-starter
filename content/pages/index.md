@@ -40,6 +40,7 @@ sections:
         self:
           padding:
             - pl-72
+            - pr-40
     badge:
       label: This is a badge
       color: text-primary
