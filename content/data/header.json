@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Resume",
             "altText": "",
             "url": "/resume",
             "showIcon": false,
