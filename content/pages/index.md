@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to Prashanth Yadamala's Portfolio Website
+      text: Welcome to my Portfolio Website
       color: text-dark
       type: TitleBlock
       styles:
