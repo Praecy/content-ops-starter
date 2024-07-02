@@ -64,14 +64,6 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
-        },
-        {
             "label": "Sign up",
             "altText": "Sign up",
             "url": "/",
