@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Lol
 slug: /
 sections:
   - type: GenericSection
