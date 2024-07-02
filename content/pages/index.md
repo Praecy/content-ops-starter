@@ -41,10 +41,6 @@ sections:
           padding:
             - pl-40
             - pr-40
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
