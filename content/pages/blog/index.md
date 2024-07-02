@@ -16,4 +16,5 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
+isDraft: true
 ---
