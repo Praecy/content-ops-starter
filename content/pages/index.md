@@ -76,11 +76,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Please fill in the form below to leave a message and I will get back to
+      you as soon as possible. Any feedback on my projects is very welcome. I
+      would love to hear your input so I can work on improving my work. If you
+      are interested in hiring me, please don't hesitate to contact me.
+
+
+      If you would like to contact me directly please find my contact details at
+      the top right of the page or click [here](www.runescape.com). 
     media:
       fields:
         - name: name
