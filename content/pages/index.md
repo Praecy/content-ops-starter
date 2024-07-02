@@ -31,7 +31,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Check out some of my projects
         altText: ''
         url: /
         showIcon: true
