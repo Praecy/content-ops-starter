@@ -4,6 +4,17 @@
             "type": "Button",
             "label": "Get started",
             "altText": "",
+            "url": "/resume",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
             "url": "/contact_me",
             "showIcon": false,
             "icon": "arrowRight",
