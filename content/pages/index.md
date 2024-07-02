@@ -22,7 +22,7 @@ sections:
       complex raw data to simple yet informative visuals and actionable
       recommendations to assist in the decision-making process. 
     actions:
-      - label: Check out some of my projects
+      - label: Personal Projects
         altText: ''
         url: /
         showIcon: true
