@@ -1,8 +1,6 @@
 ---
 type: PostLayout
-title: >-
-  Analysis of LinkedIn Data Analysis Job Postings in Australia - Personal
-  Project
+title: Analysis of LinkedIn Data Analysis Job Postings in Australia
 date: '2024-07-01'
 author: content/data/person1.json
 excerpt: >-
