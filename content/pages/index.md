@@ -39,7 +39,7 @@ sections:
       styles:
         self:
           padding:
-            - pl-72
+            - pl-40
             - pr-40
     badge:
       label: This is a badge
